@@ -1,6 +1,8 @@
 # gotify-gnome-client
 
-Simple Gotify client for Gnome desktop
+Simple Gotify client for Gnome desktop, to get Gotify messages pop up in your Gnome Desktop
+
+![Screenshot from 2024-10-01 16-37-57](https://github.com/user-attachments/assets/0b842a80-5852-4835-9c5e-a02b64068896)
 
 ## Usage
 
