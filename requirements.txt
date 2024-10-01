@@ -1,0 +1,5 @@
+click
+gotify
+pycairo
+PyGObject
+websockets
