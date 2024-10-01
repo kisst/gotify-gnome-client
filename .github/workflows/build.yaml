@@ -32,7 +32,7 @@ jobs:
         pip install pyinstaller
 
     - name: Build binary
-      run: pyinstaller --onefile gotify_gnome_desktop.spec
+      run: pyinstaller gotify_gnome_desktop.spec
 
     - name: Upload artifact
       uses: actions/upload-artifact@v3
