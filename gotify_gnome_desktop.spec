@@ -4,11 +4,11 @@
 a = Analysis(
     ["gotify_gnome_desktop.py"],
     pathex=[],
-    binaries=[
-        ("/usr/lib/x86_64-linux-gnu/girepository-1.0/Notify-0.7.typelib", "."),
-        ("/usr/lib/x86_64-linux-gnu/libnotify.so.4.0.0", "."),
-        ("/usr/lib/x86_64-linux-gnu/libnotify.so.4", "."),
-    ],
+    binaries=[],
+#        ("/usr/lib/x86_64-linux-gnu/girepository-1.0/Notify-0.7.typelib", "."),
+#        ("/usr/lib/x86_64-linux-gnu/libnotify.so.4.0.0", "."),
+#        ("/usr/lib/x86_64-linux-gnu/libnotify.so.4", "."),
+#    ],
     datas=[],
     hiddenimports=[],
     hookspath=[],
